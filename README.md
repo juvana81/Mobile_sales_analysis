@@ -42,7 +42,8 @@ Through dynamic filtering, trend analysis, and comprehensive visual reports, thi
 
 | **Page 1: Sales Summary & Trends** | **Page 2: Detailed Sales by Time** | **Page 3: Year-over-Year Comparison** |
 |-----------------------------------|-----------------------------------|--------------------------------------|
-| ![Page 1](images/e83ed558-88f9-4e5e-ae40-e59038d29e64.png) | ![Page 2](images/2c2d3fa7-ad88-431d-adc4-0147893ac377.png) | ![Page 3](images/28032713-a8a8-48ec-8070-5479d27e24b4.png) |
+| ![Page 1] ![image](https://github.com/user-attachments/assets/e6bb43d7-73a6-44e9-8644-28a2a03e99bd)| ![Page 2] ![image](https://github.com/user-attachments/assets/11410121-6b9d-46b5-ad0e-11ffd08f2ff2)|![Page 3]) |![image](https://github.com/user-attachments/assets/0e93cf16-64f1-407c-8a73-21f1a566de7c)
+
 
 ---
 
