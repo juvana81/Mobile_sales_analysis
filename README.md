@@ -1,6 +1,3 @@
-# Mobile_sales_analysis
-An impactful data analysis project using Power BI, transforming mobile sales data into clear, interactive visualizations. This dashboard highlights the power of visuals in solving real-world business problems and uncovering valuable insights for data-driven decisions.
-
 
 #  Mobile Sales Analysis Dashboard — Power BI
 
@@ -59,13 +56,8 @@ Through dynamic filtering, trend analysis, and comprehensive visual reports, thi
   - Bar Charts
   - Column Charts
 
----
 
-## 📂 Project Structure
-
-
-
-## 💡 Insights Derived
+##  Insights Derived
 
 - Top-performing mobile models and brands
 - Seasonal sales trends and fluctuations
