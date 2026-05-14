@@ -13,7 +13,7 @@ metrics and dynamic filtering.
 ## Dashboard Preview
 | **Page 1: Sales Summary & Trends** | **Page 2: Detailed Sales by Time** | **Page 3: Year-over-Year Comparison** |
 |---|---|---|
-| ![Page 1](page1.png) | ![Page 2](page2.png) | ![Page 3](page3.png) |
+| ![Page 1](Mobile_Sales_dashboard_Page1.png) | ![Page 2](Mobile_Sales_Dashboard_Page2.png) | ![Page 3](Mobile_Sales_Dashboard_Page3.png) |
 
 ## Key Findings
 - iPhone and Samsung models drove the highest sales volume, 
